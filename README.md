@@ -1,2 +1,2 @@
-# React-app-snake-game
+# React-game-app
 A react snake game app.
